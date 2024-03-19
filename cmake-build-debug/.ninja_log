@@ -1,0 +1,6 @@
+# ninja log v5
+24	124	7180485686606580	CMakeFiles/assignment2.dir/timeseries.cpp.obj	a24d372283943ac8
+9	191	7180485687275745	CMakeFiles/assignment2.dir/anomaly_detection_util.cpp.obj	2e4462a973c618c
+18	525	7180485690636374	CMakeFiles/assignment2.dir/SimpleAnomalyDetector.cpp.obj	725dd4a532c09923
+0	671	7180485692100368	CMakeFiles/assignment2.dir/MainTrain.cpp.obj	ac9eb27a16a8aa61
+671	839	7180485693725832	assignment2.exe	7e77b7f4ba4c438e
